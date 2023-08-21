@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PaymentsByMonthYear total="25"
+xmlns="https://server.fseconomy.net"
+xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance"
+xmlns:schemaLocation="https://server.fseconomy.net/static/xsd/datafeed_payments.xsd"
+>
+<Payment>
+<Id>196978556</Id>
+<Date>2023/08/20 20:40:44</Date>
+<To>Eisen Air | Maintenance</To>
+<From>spudmonkey2</From>
+<Amount>6.00</Amount>
+<Reason>Group payment</Reason>
+<Fbo>N/A</Fbo>
+<Location>null</Location>
+<Aircraft></Aircraft>
+<Comment>6</Comment>
+<AircraftId>0</AircraftId>
+</Payment>
+<Payment>
+<Id>196978553</Id>
+<Date>2023/08/20 20:40:36</Date>
+<To>Eisen Air | Maintenance</To>
+<From>spudmonkey2</From>
+<Amount>5.00</Amount>
+<Reason>Group payment</Reason>
+<Fbo>N/A</Fbo>
+<Location>null</Location>
+<Aircraft></Aircraft>
+<Comment>5</Comment>
+<AircraftId>0</AircraftId>
+</Payment>
+<Payment>
+<Id>196978542</Id>
+<Date>2023/08/20 20:40:30</Date>
+<To>Eisen Air | Maintenance</To>
+<From>spudmonkey2</From>
+<Amount>4.00</Amount>
+<Reason>Group payment</Reason>
+<Fbo>N/A</Fbo>
+<Location>null</Location>
+<Aircraft></Aircraft>
+<Comment>4</Comment>
+<AircraftId>0</AircraftId>
+</Payment>
+<Payment>
+<Id>196978060</Id>
+<Date>2023/08/20 20:25:21</Date>
+<To>Eisen Air | Maintenance</To>
+<From>spudmonkey2</From>
+<Amount>3.00</Amount>
+<Reason>Group payment</Reason>
+<Fbo>N/A</Fbo>
+<Location>null</Location>
+<Aircraft></Aircraft>
+<Comment>3</Comment>
+<AircraftId>0</AircraftId>
+</Payment>
+<Payment>
+<Id>196978059</Id>
+<Date>2023/08/20 20:25:16</Date>
+<To>Eisen Air | Maintenance</To>
+<From>spudmonkey2</From>
+<Amount>2.00</Amount>
+<Reason>Group payment</Reason>
+<Fbo>N/A</Fbo>
+<Location>null</Location>
+<Aircraft></Aircraft>
+<Comment>2</Comment>
+<AircraftId>0</AircraftId>
+</Payment>
+<Payment>
+<Id>196978058</Id>
+<Date>2023/08/20 20:25:11</Date>
+<To>Eisen Air | Maintenance</To>
+<From>spudmonkey2</From>
+<Amount>1.00</Amount>
+<Reason>Group payment</Reason>
+<Fbo>N/A</Fbo>
+<Location>null</Location>
+<Aircraft></Aircraft>
+<Comment>1</Comment>
+<AircraftId>0</AircraftId>
+</Payment>
+<Payment>
+<Id>196977956</Id>
+<Date>2023/08/20 20:21:08</Date>
+<To>Eisen Air | Maintenance</To>
+<From>spudmonkey2</From>
+<Amount>1.00</Amount>
+<Reason>Group payment</Reason>
+<Fbo>N/A</Fbo>
+<Location>null</Location>
+<Aircraft></Aircraft>
+<Comment>3</Comment>
+<AircraftId>0</AircraftId>
+</Payment>
+<Payment>
+<Id>196976851</Id>
+<Date>2023/08/20 19:59:30</Date>
+<To>Eisen Air | Maintenance</To>
+<From>spudmonkey2</From>
+<Amount>5.00</Amount>
+<Reason>Group payment</Reason>
+<Fbo>N/A</Fbo>
+<Location>null</Location>
+<Aircraft></Aircraft>
+<Comment>5</Comment>
+<AircraftId>0</AircraftId>
+</Payment>
+<Payment>
+<Id>196976850</Id>
+<Date>2023/08/20 19:59:26</Date>
+<To>Eisen Air | Maintenance</To>
+<From>spudmonkey2</From>
+<Amount>4.00</Amount>
+<Reason>Group payment</Reason>
+<Fbo>N/A</Fbo>
+<Location>null</Location>
+<Aircraft></Aircraft>
+<Comment>4</Comment>
+<AircraftId>0</AircraftId>
+</Payment>
+<Payment>
+<Id>196976849</Id>
+<Date>2023/08/20 19:59:20</Date>
+<To>Eisen Air | Maintenance</To>
+<From>spudmonkey2</From>
+<Amount>3.00</Amount>
+<Reason>Group payment</Reason>
+<Fbo>N/A</Fbo>
+<Location>null</Location>
+<Aircraft></Aircraft>
+<Comment>3</Comment>
+<AircraftId>0</AircraftId>
+</Payment>
+<Payment>
+<Id>196976847</Id>
+<Date>2023/08/20 19:59:09</Date>
+<To>Eisen Air | Maintenance</To>
+<From>spudmonkey2</From>
+<Amount>2.00</Amount>
+<Reason>Group payment</Reason>
+<Fbo>N/A</Fbo>
+<Location>null</Location>
+<Aircraft></Aircraft>
+<Comment>2</Comment>
+<AircraftId>0</AircraftId>
+</Payment>
+<Payment>
+<Id>196976810</Id>
+<Date>2023/08/20 19:58:08</Date>
+<To>Eisen Air | Maintenance</To>
+<From>spudmonkey2</From>
+<Amount>1.90</Amount>
+<Reason>Group payment</Reason>
+<Fbo>N/A</Fbo>
+<Location>null</Location>
+<Aircraft></Aircraft>
+<Comment>new</Comment>
+<AircraftId>0</AircraftId>
+</Payment>
+<Payment>
+<Id>196975914</Id>
+<Date>2023/08/20 19:42:42</Date>
+<To>Eisen Air | Maintenance</To>
+<From>spudmonkey2</From>
+<Amount>1.00</Amount>
+<Reason>Group payment</Reason>
+<Fbo>N/A</Fbo>
+<Location>null</Location>
+<Aircraft></Aircraft>
+<Comment>1</Comment>
+<AircraftId>0</AircraftId>
+</Payment>
+<Payment>
+<Id>196975806</Id>
+<Date>2023/08/20 19:39:39</Date>
+<To>Eisen Air | Maintenance</To>
+<From>spudmonkey2</From>
+<Amount>1.00</Amount>
+<Reason>Group payment</Reason>
+<Fbo>N/A</Fbo>
+<Location>null</Location>
+<Aircraft></Aircraft>
+<Comment>1</Comment>
+<AircraftId>0</AircraftId>
+</Payment>
+<Payment>
+<Id>196975805</Id>
+<Date>2023/08/20 19:39:35</Date>
+<To>Eisen Air | Maintenance</To>
+<From>spudmonkey2</From>
+<Amount>1.00</Amount>
+<Reason>Group payment</Reason>
+<Fbo>N/A</Fbo>
+<Location>null</Location>
+<Aircraft></Aircraft>
+<Comment>1</Comment>
+<AircraftId>0</AircraftId>
+</Payment>
+<Payment>
+<Id>196975620</Id>
+<Date>2023/08/20 19:35:56</Date>
+<To>Eisen Air | Maintenance</To>
+<From>spudmonkey2</From>
+<Amount>8.00</Amount>
+<Reason>Group payment</Reason>
+<Fbo>N/A</Fbo>
+<Location>null</Location>
+<Aircraft></Aircraft>
+<Comment>8</Comment>
+<AircraftId>0</AircraftId>
+</Payment>
+<Payment>
+<Id>196975619</Id>
+<Date>2023/08/20 19:35:47</Date>
+<To>Eisen Air | Maintenance</To>
+<From>spudmonkey2</From>
+<Amount>7.00</Amount>
+<Reason>Group payment</Reason>
+<Fbo>N/A</Fbo>
+<Location>null</Location>
+<Aircraft></Aircraft>
+<Comment>7</Comment>
+<AircraftId>0</AircraftId>
+</Payment>
+<Payment>
+<Id>196975259</Id>
+<Date>2023/08/20 19:27:08</Date>
+<To>Eisen Air | Maintenance</To>
+<From>spudmonkey2</From>
+<Amount>5.00</Amount>
+<Reason>Group payment</Reason>
+<Fbo>N/A</Fbo>
+<Location>null</Location>
+<Aircraft></Aircraft>
+<Comment>5</Comment>
+<AircraftId>0</AircraftId>
+</Payment>
+<Payment>
+<Id>196975258</Id>
+<Date>2023/08/20 19:26:57</Date>
+<To>Eisen Air | Maintenance</To>
+<From>spudmonkey2</From>
+<Amount>4.00</Amount>
+<Reason>Group payment</Reason>
+<Fbo>N/A</Fbo>
+<Location>null</Location>
+<Aircraft></Aircraft>
+<Comment>4</Comment>
+<AircraftId>0</AircraftId>
+</Payment>
+<Payment>
+<Id>196973860</Id>
+<Date>2023/08/20 19:01:01</Date>
+<To>Eisen Air | Maintenance</To>
+<From>spudmonkey2</From>
+<Amount>3.00</Amount>
+<Reason>Group payment</Reason>
+<Fbo>N/A</Fbo>
+<Location>null</Location>
+<Aircraft></Aircraft>
+<Comment>3</Comment>
+<AircraftId>0</AircraftId>
+</Payment>
+<Payment>
+<Id>196973859</Id>
+<Date>2023/08/20 19:00:55</Date>
+<To>Eisen Air | Maintenance</To>
+<From>spudmonkey2</From>
+<Amount>2.00</Amount>
+<Reason>Group payment</Reason>
+<Fbo>N/A</Fbo>
+<Location>null</Location>
+<Aircraft></Aircraft>
+<Comment>2</Comment>
+<AircraftId>0</AircraftId>
+</Payment>
+<Payment>
+<Id>196973750</Id>
+<Date>2023/08/20 18:59:53</Date>
+<To>Eisen Air | Maintenance</To>
+<From>spudmonkey2</From>
+<Amount>20.00</Amount>
+<Reason>Group payment</Reason>
+<Fbo>N/A</Fbo>
+<Location>null</Location>
+<Aircraft></Aircraft>
+<Comment>125</Comment>
+<AircraftId>0</AircraftId>
+</Payment>
+<Payment>
+<Id>196731224</Id>
+<Date>2023/08/15 06:37:29</Date>
+<To>Eisen Air | Maintenance</To>
+<From>spudmonkey2</From>
+<Amount>300.00</Amount>
+<Reason>Group payment</Reason>
+<Fbo>N/A</Fbo>
+<Location>null</Location>
+<Aircraft></Aircraft>
+<Comment>zjs8r</Comment>
+<AircraftId>0</AircraftId>
+</Payment>
+<Payment>
+<Id>196731124</Id>
+<Date>2023/08/15 06:33:52</Date>
+<To>Eisen Air | Maintenance</To>
+<From>spudmonkey2</From>
+<Amount>2.50</Amount>
+<Reason>Group payment</Reason>
+<Fbo>N/A</Fbo>
+<Location>null</Location>
+<Aircraft></Aircraft>
+<Comment>zjs8r</Comment>
+<AircraftId>0</AircraftId>
+</Payment>
+<Payment>
+<Id>196731087</Id>
+<Date>2023/08/15 06:30:20</Date>
+<To>Eisen Air | Maintenance</To>
+<From>spudmonkey2</From>
+<Amount>420.69</Amount>
+<Reason>Group payment</Reason>
+<Fbo>N/A</Fbo>
+<Location>null</Location>
+<Aircraft></Aircraft>
+<Comment>zjs8r</Comment>
+<AircraftId>0</AircraftId>
+</Payment>
+</PaymentsByMonthYear>
+

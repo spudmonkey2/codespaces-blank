@@ -1,0 +1,16 @@
+{'PaymentsByMonthYear': 
+    {'@total': '6', '@xmlns': 'https://server.fseconomy.net', '@xmlns:xsi': 'https://www.w3.org/2001/XMLSchema-instance', '@xmlns:schemaLocation': 'https://server.fseconomy.net/static/xsd/datafeed_payments.xsd', 
+        'Payment': 
+        [
+            {'Id': '194723999', 'Date': '2023/07/05 05:26:05', 'To': '! Eisen Air', 'From': 'spudmonkey2', 'Amount': '9000.00', 'Reason': 'Group payment', 'Fbo': 'N/A', 'Location': 'null', 'Aircraft': None, 'Comment': 'null', 'AircraftId': '0'}, 
+            {'Id': '194723997', 'Date': '2023/07/05 05:24:34', 'To': 'spudmonkey2', 'From': '! Eisen Air', 'Amount': '50000.00', 'Reason': 'Group payment', 'Fbo': 'N/A', 'Location': 'null', 'Aircraft': None, 'Comment': 'null', 'AircraftId': '0'}, 
+            {'Id': '194723995', 'Date': '2023/07/05 05:23:42', 'To': '! Eisen Air', 'From': '! Eisen Air', 'Amount': '52000.00', 'Reason': 'Group payment', 'Fbo': 'N/A', 'Location': 'null', 'Aircraft': None, 'Comment': 'null', 'AircraftId': '0'}, 
+            {'Id': '194723990', 'Date': '2023/07/05 05:23:06', 'To': '! Eisen Air', 'From': 'spudmonkey2', 'Amount': '52417.00', 'Reason': 'Group payment', 'Fbo': 'N/A', 'Location': 'null', 'Aircraft': None, 'Comment': 'null', 'AircraftId': '0'}, 
+            {'Id': '194723985', 'Date': '2023/07/05 05:22:41', 'To': 'spudmonkey2', 'From': '! Eisen Air', 'Amount': '16000.00', 'Reason': 'Group payment', 'Fbo': 'N/A', 'Location': 'null', 'Aircraft': None, 'Comment': 'null', 'AircraftId': '0'}, 
+            {'Id': '194666647', 'Date': '2023/07/04 00:59:12', 'To': '! Eisen Air', 'From': 'spudmonkey2', 'Amount': '16000.00', 'Reason': 'Group payment', 'Fbo': 'N/A', 'Location': 'null', 'Aircraft': None, 'Comment': 'null', 'AircraftId': '0'}
+        ]
+    
+    
+    }
+
+}

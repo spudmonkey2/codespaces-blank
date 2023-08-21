@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PaymentsByMonthYear total="6"
+xmlns="https://server.fseconomy.net"
+xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance"
+xmlns:schemaLocation="https://server.fseconomy.net/static/xsd/datafeed_payments.xsd"
+>
+<Payment>
+<Id>194723999</Id>
+<Date>2023/07/05 05:26:05</Date>
+<To>! Eisen Air</To>
+<From>spudmonkey2</From>
+<Amount>9000.00</Amount>
+<Reason>Group payment</Reason>
+<Fbo>N/A</Fbo>
+<Location>null</Location>
+<Aircraft></Aircraft>
+<Comment>null</Comment>
+<AircraftId>0</AircraftId>
+</Payment>
+<Payment>
+<Id>194723997</Id>
+<Date>2023/07/05 05:24:34</Date>
+<To>spudmonkey2</To>
+<From>! Eisen Air</From>
+<Amount>50000.00</Amount>
+<Reason>Group payment</Reason>
+<Fbo>N/A</Fbo>
+<Location>null</Location>
+<Aircraft></Aircraft>
+<Comment>null</Comment>
+<AircraftId>0</AircraftId>
+</Payment>
+<Payment>
+<Id>194723995</Id>
+<Date>2023/07/05 05:23:42</Date>
+<To>! Eisen Air</To>
+<From>! Eisen Air</From>
+<Amount>52000.00</Amount>
+<Reason>Group payment</Reason>
+<Fbo>N/A</Fbo>
+<Location>null</Location>
+<Aircraft></Aircraft>
+<Comment>null</Comment>
+<AircraftId>0</AircraftId>
+</Payment>
+<Payment>
+<Id>194723990</Id>
+<Date>2023/07/05 05:23:06</Date>
+<To>! Eisen Air</To>
+<From>spudmonkey2</From>
+<Amount>52417.00</Amount>
+<Reason>Group payment</Reason>
+<Fbo>N/A</Fbo>
+<Location>null</Location>
+<Aircraft></Aircraft>
+<Comment>null</Comment>
+<AircraftId>0</AircraftId>
+</Payment>
+<Payment>
+<Id>194723985</Id>
+<Date>2023/07/05 05:22:41</Date>
+<To>spudmonkey2</To>
+<From>! Eisen Air</From>
+<Amount>16000.00</Amount>
+<Reason>Group payment</Reason>
+<Fbo>N/A</Fbo>
+<Location>null</Location>
+<Aircraft></Aircraft>
+<Comment>null</Comment>
+<AircraftId>0</AircraftId>
+</Payment>
+<Payment>
+<Id>194666648</Id>
+<Date>2023/07/04 00:59:12</Date>
+<To>! Eisen Air</To>
+<From>spudmonkey2</From>
+<Amount>16000.00</Amount>
+<Reason>Group payment</Reason>
+<Fbo>N/A</Fbo>
+<Location>null</Location>
+<Aircraft></Aircraft>
+<Comment>null</Comment>
+<AircraftId>0</AircraftId>
+</Payment>
+</PaymentsByMonthYear>
+
